@@ -1,0 +1,6 @@
+ip = wifi.sta.getip()
+print(ip)
+wifi.setmode(wifi.STATION)
+wifi.sta.config(,) 
+ip = wifi.sta.getip()
+print(ip)
